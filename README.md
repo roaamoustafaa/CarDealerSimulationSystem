@@ -192,6 +192,7 @@ Experimental avg Lead= 1.71
 
 Yes, there is a better value for the review period variable N to maximize the car dealer's net profit. The simulations indicate that setting it with various verable make the profit higher,. But , suggesting that adjusting the review period to 4 days is the most profitable strategy according to the simulated conditions.
 
+![Simulation Project - Profit ](https://i.ibb.co/yFhyk7q/profit.png)
 ![](Aspose.Words.1fd71133-1f68-411d-8bb2-19bda7085a83.010.jpeg)
 
 7. **Conclusion**
